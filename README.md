@@ -37,7 +37,7 @@ Apesar de ser um exercício educacional, mostra claramente o **custo computacion
 
 Por padrão, o código **não imprime cada tentativa**, pois isso deixaria o processo muito lento.
 
-Se quiser **ver o ataque acontecendo** (ex: "aa", "ab", "ac"...), descomente a linha no código:
+Se quiser **ver o ataque acontecendo** (ex: "aa", "ab", "ac"...), descomente a linha 24 no código:
 
 ```python
 # print(tentativa)
