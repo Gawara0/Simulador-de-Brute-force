@@ -42,6 +42,7 @@ Se quiser **ver o ataque acontecendo** (ex: "aa", "ab", "ac"...), descomente a l
 ```python
 # print(tentativa)
 ```
+> [!NOTE]
 > Cuidado: ao remover o "#", o processo pode ficar muito mais lento, principalmente com senhas maiores.
 
 ---
