@@ -29,7 +29,8 @@ Apesar de ser um exercício educacional, mostra claramente o **custo computacion
 ## 🖥️ Exemplo de execução
 
 ![Image](https://github.com/user-attachments/assets/2883236a-6e69-42df-a0a2-ea116c0fcda8)
-
+> [!NOTE]
+> Teste feito pelo mobile
 ---
 
 ## ⚠️ Aviso
