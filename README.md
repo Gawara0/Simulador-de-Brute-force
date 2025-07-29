@@ -68,7 +68,6 @@ Esse projeto é exclusivamente didático.
 ---
 
 ## 🛑 Uso responsável
-```python
-Esse script é feito para estudo.
+> Esse script é feito para estudo.
 Não utilize esse conhecimento para atividades ilegais, invasões ou testes sem permissão.
 Segurança ofensiva deve sempre estar a serviço da ética, da pesquisa e da proteção.
